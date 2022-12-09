@@ -1,5 +1,4 @@
-{
-  "posts": [
+   [
     {
       "id": "1",
       "name": "Marigold Sarovar Portico Shimla",
@@ -876,4 +875,3 @@
       "room_type": ["Single Rooms", "Double Rooms", "Deluxe Rooms", "Suits"]
     }
   ]
-}
